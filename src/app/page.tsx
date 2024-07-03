@@ -1,4 +1,4 @@
-import { fetchProducts} from "@/utils/consumers";
+import { fetchProducts } from "@/utils/consumers";
 import { ProductsClientConnecter } from "@/components/ProductsClientConnecter";
 
 
